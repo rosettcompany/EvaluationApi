@@ -1,5 +1,4 @@
 # Rest API EVALUACION
-This is a Demo rest API using Spring Boot, MongoDB running in docker containers defined by docker-compose yml file.
 
 ## Requirements
 - Java 8
